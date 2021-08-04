@@ -1,0 +1,6 @@
+tipo:CAMPEAO,chave:42,nome:Ezreal,Mana:3,Poder:1,Vida:3,Nivel:ATACAR_INIMIGO_6_VEZES,Efeito:NULO,Traco:ELUSIVO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:43,nome:Heimerdinger,Mana:5,Poder:1,Vida:3,Nivel:DOZE_PODER_TORRE,Efeito:UM_FEITICO_TORRE,Traco:NULO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:44,nome:Jinx,Mana:4,Poder:4,Vida:3,Nivel:MAO_VAZIA,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:45,nome:Teemo,Mana:1,Poder:1,Vida:1,Nivel:COGUMELOS_15,Efeito:NULO,Traco:ELUSIVO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:46,nome:Vi,Mana:5,Poder:2,Vida:5,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:DESAFIADOR,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:47,nome:Viktor,Mana:4,Poder:2,Vida:4,Nivel:JOGAR_7_CARTAS_CRIADAS,Efeito:NULO,Traco:NULO,Reino:Piltover&Zaun

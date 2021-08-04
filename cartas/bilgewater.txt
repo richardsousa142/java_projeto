@@ -1,0 +1,8 @@
+tipo:CAMPEAO,chave:1,nome:Fizz,Mana:1,Poder:2,Vida:1,Nivel:CONJURAR_6_FEITICOS,Efeito:NULO,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:2,nome:Gang Plank,Mana:5,Poder:5,Vida:5,Nivel:DANO_5_VEZES_NEXUS,Efeito:BARRIL_POLVORA,Traco:SOBREPUJAR,Reino:Bilgewater
+tipo:CAMPEAO,chave:3,nome:Miss Fortune,Mana:3,Poder:3,Vida:3,Nivel:ALIADOS_ATACAR_4_VEZES,Efeito:MAIS_1_DANO_ALIADOS,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:4,nome:Nautilus,Mana:7,Poder:0,Vida:12,Nivel:PROFUNDEZAS,Efeito:ABDICADOS,Traco:ROBUSTO,Reino:Bilgewater
+tipo:CAMPEAO,chave:5,nome:Tahm Kench,Mana:4,Poder:2,Vida:6,Nivel:CAPTURAR_3_UNIDADES,Efeito:UM_GOSTO_ADQUIRIDO_MAO,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:6,nome:Twisted Fate,Mana:4,Poder:2,Vida:2,Nivel:COMPRAR_9_CARTAS,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Bilgewater
+tipo:FEITICOS,chave:68,nome:Fugitivo,Mana:1,Efeito:INVOQUE_1S_1MANA,Traco:SUBITO,Reino:Bilgewater
+tipo:FEITICOS,chave:69,nome:Tiro de Aviso,Mana:0,Efeito:CAUSE_1_DANO_NEXUS,Traco:SUBITO,Reino:Bilgewater

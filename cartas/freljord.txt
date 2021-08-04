@@ -1,0 +1,7 @@
+tipo:CAMPEAO,chave:14,nome:Anivia,Mana:6,Poder:2,Vida:4,Nivel:ILUMINADO,Efeito:CAUSA_1_DANO_INIMIGOS_NEXUS,Traco:NULO,Reino:Freljord
+tipo:CAMPEAO,chave:15,nome:Ashe,Mana:4,Poder:5,Vida:3,Nivel:CONGELAR_5_INIMIGOS,Efeito:CONGELA_INIMIGO_FORTE,Traco:NULO,Reino:Freljord
+tipo:CAMPEAO,chave:16,nome:Braum,Mana:4,Poder:0,Vida:5,Nivel:SOBREVIVER_10_DANO_TOTAL,Efeito:SOBREVIVER_P_PORO,Traco:REGENERACAO,Reino:Freljord
+tipo:CAMPEAO,chave:17,nome:Lissandra,Mana:3,Poder:2,Vida:3,Nivel:INVOCAR_2_ALIADOS_8_CUSTO,Efeito:SERVO_CONGELADO,Traco:ROBUSTO,Reino:Freljord
+tipo:CAMPEAO,chave:18,nome:Sejuani,Mana:6,Poder:5,Vida:6,Nivel:DANO_5_VEZES_NEXUS,Efeito:CONGELA_INIMIGO_FORTE,Traco:SOBREPUJAR,Reino:Freljord
+tipo:CAMPEAO,chave:19,nome:Trundle,Mana:5,Poder:4,Vida:5,Nivel:PILAR_DE_GELO,Efeito:PILAR_GELO,Traco:REGENERACAO,Reino:Freljord
+tipo:CAMPEAO,chave:20,nome:Tryndamere,Mana:8,Poder:8,Vida:4,Nivel:INVES_DE_MORRER_UPA,Efeito:NULO,Traco:SOBREPUJAR,Reino:Freljord

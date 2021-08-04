@@ -1,0 +1,17 @@
+tipo:CAMPEAO,chave:7,nome:Fiora,Mana:3,Poder:3,Vida:2,Nivel:ABATER_2_INIMIGOS,Efeito:NULO,Traco:DESAFIADOR,Reino:Demacia
+tipo:CAMPEAO,chave:8,nome:Garen,Mana:5,Poder:5,Vida:5,Nivel:GOLPEAR_2_VEZES,Efeito:NULO,Traco:REGENERACAO,Reino:Demacia
+tipo:CAMPEAO,chave:9,nome:Jarvan,Mana:6,Poder:6,Vida:4,Nivel:ALIADOS_S_4_GOLPES,Efeito:NULO,Traco:BARREIRA,Reino:Demacia
+tipo:CAMPEAO,chave:10,nome:Lucian,Mana:2,Poder:3,Vida:2,Nivel:MORTE_4_ALIADOS,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Demacia
+tipo:CAMPEAO,chave:11,nome:Lux,Mana:6,Poder:5,Vida:6,Nivel:GASTAR_6_MANA_FEITICOS,Efeito:NULO,Traco:BARREIRA,Reino:Demacia
+tipo:CAMPEAO,chave:12,nome:Quinn,Mana:5,Poder:3,Vida:4,Nivel:ALIADOS_ATACAR_4_VEZES,Efeito:VALOR,Traco:PATRULHEIRO,Reino:Demacia
+tipo:CAMPEAO,chave:13,nome:Shyvana,Mana:4,Poder:3,Vida:4,Nivel:CAUSAR_12_DANO,Efeito:MAIS_DANO_VIDA,Traco:FURIA,Reino:Demacia
+tipo:SEGUIDORES,chave:62,nome:Tianna,Mana:8,Poder:7,Vida:7,Efeito:UNIDADE_E_ATACA_NUXUS,Reino:Demacia
+tipo:SEGUIDORES,chave:63,nome:Vanguarda,Mana:4,Poder:3,Vida:3,Efeito:MAIS_1_1_ALIADOS,Reino:Demacia
+tipo:SEGUIDORES,chave:64,nome:Duelista,Mana:3,Poder:3,Vida:2,Efeito:DESTRUIR_CS_PORO,Reino:Demacia
+tipo:SEGUIDORES,chave:65,nome:Defensor,Mana:2,Poder:2,Vida:2,Efeito:FURIA,Reino:Demacia
+tipo:SEGUIDORES,chave:66,nome:Poro,Mana:1,Poder:2,Vida:1,Efeito:NULO,Reino:Demacia
+tipo:SEGUIDORES,chave:67,nome:Poro Defensor,Mana:1,Poder:1,Vida:2,Efeito:D_GANHA_CARTA,Reino:Demacia
+tipo:FEITICOS,chave:73,nome:Cota de Malha,Mana:1,Efeito:DE_ROBUSTO_1ALIADOS,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:74,nome:Destreza em Campo,Mana:1,Efeito:DE_1_1_ALIADO,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:75,nome:Determinacao Guardia,Mana:1,Efeito:DE_ROBUSTO_TOTOS_ALIADOS,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:76,nome:Golpe Radiante,Mana:1,Efeito:DE_1_1_ALIADO,Traco:SUBITO,Reino:Demacia

@@ -1,0 +1,15 @@
+tipo:SEGUIDORES,chave:1,nome:Barril de Polvora,Mana:0,Poder:0,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:2,nome:Poro Poderoso,Mana:3,Poder:3,Vida:3,Efeito:NULO,Traco:NULO
+tipo:FEITICOS,chave:3,nome:Perspicacia das Eras,Mana:2,Efeito:NULO,Traco:SUBITO
+tipo:SEGUIDORES,chave:4,nome:Muda,Mana:1,Poder:2,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:5,nome:Soldado de Areia,Mana:1,Poder:1,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:6,nome:Valor,Mana:2,Poder:2,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:7,nome:SPIDERLING,Mana:1,Poder:1,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:8,nome:Spectral Rider,Mana:2,Poder:2,Vida:2,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:9,nome:Servo Congelado,Mana:1,Poder:0,Vida:1,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:10,nome:Pilar de Gelo,Mana:1,Poder:0,Vida:6,Efeito:NULO,Traco:NULO
+tipo:FEITICOS,chave:11,nome:Revolucao do Machado,Mana:0,Efeito:MAIS_1_DANO_ALIADOS,Traco:SUBITO
+tipo:FEITICOS,chave:12,nome:Sementes Semeadas,Mana:2,Efeito:MAIS_1_DANO_ALIADOS,Traco:SUBITO
+tipo:FEITICOS,chave:13,nome:Fio da Lamina,Mana:1,Efeito:CAUSA_1_DANO_INIMIGOS_NEXUS,Traco:SUBITO
+tipo:SEGUIDORES,chave:14,nome:Sombra Viva,Mana:3,Poder:3,Vida:2,Efeito:NULO,Traco:NULO
+tipo:SEGUIDORES,chave:66,nome:Poro,Mana:1,Poder:2,Vida:1,Efeito:NULO,Reino:Demacia

@@ -1,0 +1,76 @@
+tipo:CAMPEAO,chave:1,nome:Fizz,Mana:1,Poder:2,Vida:1,Nivel:CONJURAR_6_FEITICOS,Efeito:NULO,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:2,nome:Gang Plank,Mana:5,Poder:5,Vida:5,Nivel:DANO_5_VEZES_NEXUS,Efeito:BARRIL_POLVORA,Traco:SOBREPUJAR,Reino:Bilgewater
+tipo:CAMPEAO,chave:3,nome:Miss Fortune,Mana:3,Poder:3,Vida:3,Nivel:ALIADOS_ATACAR_4_VEZES,Efeito:MAIS_1_DANO_ALIADOS,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:4,nome:Nautilus,Mana:7,Poder:0,Vida:12,Nivel:PROFUNDEZAS,Efeito:ABDICADOS,Traco:ROBUSTO,Reino:Bilgewater
+tipo:CAMPEAO,chave:5,nome:Tahm Kench,Mana:4,Poder:2,Vida:6,Nivel:CAPTURAR_3_UNIDADES,Efeito:UM_GOSTO_ADQUIRIDO_MAO,Traco:NULO,Reino:Bilgewater
+tipo:CAMPEAO,chave:6,nome:Twisted Fate,Mana:4,Poder:2,Vida:2,Nivel:COMPRAR_9_CARTAS,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Bilgewater
+tipo:CAMPEAO,chave:7,nome:Fiora,Mana:3,Poder:3,Vida:2,Nivel:ABATER_2_INIMIGOS,Efeito:NULO,Traco:DESAFIADOR,Reino:Demacia
+tipo:CAMPEAO,chave:8,nome:Garen,Mana:5,Poder:5,Vida:5,Nivel:GOLPEAR_2_VEZES,Efeito:NULO,Traco:REGENERACAO,Reino:Demacia
+tipo:CAMPEAO,chave:9,nome:Jarvan,Mana:6,Poder:6,Vida:4,Nivel:ALIADOS_S_4_GOLPES,Efeito:NULO,Traco:BARREIRA,Reino:Demacia
+tipo:CAMPEAO,chave:10,nome:Lucian,Mana:2,Poder:3,Vida:2,Nivel:MORTE_4_ALIADOS,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Demacia
+tipo:CAMPEAO,chave:11,nome:Lux,Mana:6,Poder:5,Vida:6,Nivel:GASTAR_6_MANA_FEITICOS,Efeito:NULO,Traco:BARREIRA,Reino:Demacia
+tipo:CAMPEAO,chave:12,nome:Quinn,Mana:5,Poder:3,Vida:4,Nivel:ALIADOS_ATACAR_4_VEZES,Efeito:VALOR,Traco:PATRULHEIRO,Reino:Demacia
+tipo:CAMPEAO,chave:13,nome:Shyvana,Mana:4,Poder:3,Vida:4,Nivel:CAUSAR_12_DANO,Efeito:MAIS_DANO_VIDA,Traco:FURIA,Reino:Demacia
+tipo:CAMPEAO,chave:14,nome:Anivia,Mana:6,Poder:2,Vida:4,Nivel:ILUMINADO,Efeito:CAUSA_1_DANO_INIMIGOS_NEXUS,Traco:NULO,Reino:Freljord
+tipo:CAMPEAO,chave:15,nome:Ashe,Mana:4,Poder:5,Vida:3,Nivel:CONGELAR_5_INIMIGOS,Efeito:CONGELA_INIMIGO_FORTE,Traco:NULO,Reino:Freljord
+tipo:CAMPEAO,chave:16,nome:Braum,Mana:4,Poder:0,Vida:5,Nivel:SOBREVIVER_10_DANO_TOTAL,Efeito:SOBREVIVER_P_PORO,Traco:REGENERACAO,Reino:Freljord
+tipo:CAMPEAO,chave:17,nome:Lissandra,Mana:3,Poder:2,Vida:3,Nivel:INVOCAR_2_ALIADOS_8_CUSTO,Efeito:SERVO_CONGELADO,Traco:ROBUSTO,Reino:Freljord
+tipo:CAMPEAO,chave:18,nome:Sejuani,Mana:6,Poder:5,Vida:6,Nivel:DANO_5_VEZES_NEXUS,Efeito:CONGELA_INIMIGO_FORTE,Traco:SOBREPUJAR,Reino:Freljord
+tipo:CAMPEAO,chave:19,nome:Trundle,Mana:5,Poder:4,Vida:5,Nivel:PILAR_DE_GELO,Efeito:PILAR_GELO,Traco:REGENERACAO,Reino:Freljord
+tipo:CAMPEAO,chave:20,nome:Tryndamere,Mana:8,Poder:8,Vida:4,Nivel:INVES_DE_MORRER_UPA,Efeito:NULO,Traco:SOBREPUJAR,Reino:Freljord
+tipo:CAMPEAO,chave:21,nome:Elise,Mana:2,Poder:2,Vida:3,Nivel:TEM_3_ARANHA,Efeito:CRIA_ARACNIDEA,Traco:ASSUSTADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:22,nome:Hecarim,Mana:6,Poder:5,Vida:5,Nivel:ATACAR_COM_6,Efeito:SPECTRAL_RIDERS,Traco:SOBREPUJAR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:23,nome:Kalista,Mana:3,Poder:4,Vida:3,Nivel:TRES_ALIADOS_MORREREM,Efeito:NULO,Traco:ASSUSTADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:24,nome:Kindred,Mana:5,Poder:4,Vida:4,Nivel:VER_INIMIGOS_MARCADOS_MORREREM,Efeito:MARCAR,Traco:ATAQUE_RAPIDO,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:25,nome:Maokai,Mana:4,Poder:1,Vida:4,Nivel:UNIDADES_MORRERAM,Efeito:EVOCA_1_MUDA,Traco:NULO,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:26,nome:Nocturne,Mana:4,Poder:5,Vida:3,Nivel:ANOITECER,Efeito:ANOITECER,Traco:ASSUSTADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:27,nome:Thresh,Mana:5,Poder:3,Vida:6,Nivel:SEIS_UNIDADES_MORREREM,Efeito:NULO,Traco:DESAFIADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:28,nome:Irelia,Mana:3,Poder:3,Vida:2,Nivel:DOZE_ALIADOS_ATACARAM,Efeito:FLAWLESS_DUET,Traco:ATAQUE_RAPIDO,Reino:Ionia
+tipo:CAMPEAO,chave:29,nome:Karma,Mana:6,Poder:4,Vida:3,Nivel:ILUMINADO,Efeito:CRIAR_FEITICO,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:30,nome:Lee Sin,Mana:5,Poder:3,Vida:5,Nivel:CONJURAR_6_FEITICOS,Efeito:NULO,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:31,nome:Lulu,Mana:3,Poder:4,Vida:4,Nivel:AUZILIAR_3_VEZES,Efeito:AUXILIAR,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:32,nome:Shen,Mana:4,Poder:3,Vida:5,Nivel:VI_ALIADOS_BARREIRA_4,Efeito:AUXILIAR,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:33,nome:Yasuo,Mana:4,Poder:4,Vida:4,Nivel:ATORDOAR,Efeito:ATORDOAR,Traco:ATAQUE_RAPIDO,Reino:Ionia
+tipo:CAMPEAO,chave:34,nome:Zed,Mana:3,Poder:3,Vida:2,Nivel:ATACAR_NEXUS,Efeito:SOMBRA_VIVA,Traco:ATAQUE_RAPIDO,Reino:Ionia
+tipo:CAMPEAO,chave:35,nome:Darius,Mana:6,Poder:6,Vida:5,Nivel:NEXUS_INIMIGO_10,Efeito:NULO,Traco:SOBREPUJAR,Reino:Noxus
+tipo:CAMPEAO,chave:36,nome:Draven,Mana:3,Poder:3,Vida:3,Nivel:GOLPEAR_1_REV_MACHADO,Efeito:REV_MACHADO,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:37,nome:Katarina,Mana:3,Poder:3,Vida:2,Nivel:GOLPEAR_2_VEZES,Efeito:FIO_LAMINA,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:38,nome:Leblanc,Mana:3,Poder:5,Vida:2,Nivel:CAUSAR_15_DANO,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:39,nome:Riven,Mana:3,Poder:3,Vida:4,Nivel:LAMINA_DO_EXILIO,Efeito:REFORJAR,Traco:NULO,Reino:Noxus
+tipo:CAMPEAO,chave:40,nome:Swain,Mana:5,Poder:3,Vida:6,Nivel:DOZE_DANO_FORA_COMBATE,Efeito:DANO_3_NEXUS,Traco:ASSUSTADOR,Reino:Noxus
+tipo:CAMPEAO,chave:41,nome:Vladimir,Mana:5,Poder:5,Vida:5,Nivel:CINCO_TIME_SOBREVIVERAM,Efeito:MAIS_1_DANO_ALIADOS,Traco:NULO,Reino:Noxus
+tipo:CAMPEAO,chave:42,nome:Ezreal,Mana:3,Poder:1,Vida:3,Nivel:ATACAR_INIMIGO_6_VEZES,Efeito:NULO,Traco:ELUSIVO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:43,nome:Heimerdinger,Mana:5,Poder:1,Vida:3,Nivel:DOZE_PODER_TORRE,Efeito:UM_FEITICO_TORRE,Traco:NULO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:44,nome:Jinx,Mana:4,Poder:4,Vida:3,Nivel:MAO_VAZIA,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:45,nome:Teemo,Mana:1,Poder:1,Vida:1,Nivel:COGUMELOS_15,Efeito:NULO,Traco:ELUSIVO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:46,nome:Vi,Mana:5,Poder:2,Vida:5,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:DESAFIADOR,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:47,nome:Viktor,Mana:4,Poder:2,Vida:4,Nivel:JOGAR_7_CARTAS_CRIADAS,Efeito:NULO,Traco:NULO,Reino:Piltover&Zaun
+tipo:CAMPEAO,chave:48,nome:Azir,Mana:3,Poder:1,Vida:5,Nivel:INVOCAR_10_UNIDADES,Efeito:INVOCAR_SOLDADO_AREIA,Traco:NULO,Reino:Shurima
+tipo:CAMPEAO,chave:49,nome:Nasus,Mana:6,Poder:2,Vida:2,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:ASSUSTADOR,Reino:Shurima
+tipo:CAMPEAO,chave:50,nome:Renekton,Mana:4,Poder:4,Vida:4,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:SOBREPUJAR,Reino:Shurima
+tipo:CAMPEAO,chave:51,nome:Sivir,Mana:4,Poder:5,Vida:3,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Shurima
+tipo:CAMPEAO,chave:52,nome:Taliyah,Mana:5,Poder:3,Vida:5,Nivel:CRIAR_5_LENDMARKS,Efeito:SUMONAR_LENDMARKS,Traco:NULO,Reino:Shurima
+tipo:CAMPEAO,chave:53,nome:Zilean,Mana:2,Poder:1,Vida:4,Nivel:DESTRUIR_2_BOMBAS,Efeito:CRIAR_4_BOMBAS,Traco:NULO,Reino:Shurima
+tipo:CAMPEAO,chave:54,nome:Aphelios,Mana:3,Poder:3,Vida:2,Nivel:ARMA_LUA_4_VEZES,Efeito:ARMA_DA_LUA,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:55,nome:Aurelion Sol,Mana:10,Poder:10,Vida:10,Nivel:PODER_25_TOTAL,Efeito:NULO,Traco:FURIA,Reino:Targon
+tipo:CAMPEAO,chave:56,nome:Diana,Mana:2,Poder:2,Vida:2,Nivel:ANOITECER_4_VEZES,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Targon
+tipo:CAMPEAO,chave:57,nome:Leona,Mana:4,Poder:3,Vida:5,Nivel:AMANHECER_4_VEZES,Efeito:AMANHECER,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:58,nome:Malphite,Mana:7,Poder:6,Vida:10,Nivel:CARTA_10_MANA,Efeito:NULO,Traco:ROBUSTO,Reino:Targon
+tipo:CAMPEAO,chave:59,nome:Soraka,Mana:3,Poder:1,Vida:6,Nivel:CURAR_ALIADOS_4_VEZES,Efeito:AUXILIAR,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:60,nome:Taric,Mana:4,Poder:3,Vida:4,Nivel:VI_AUXILIAR_ALIADOS_7VEZES,Efeito:NULO,Traco:ROBUSTO,Reino:Targon
+tipo:CAMPEAO,chave:61,nome:Zoe,Mana:1,Poder:1,Vida:1,Nivel:ATACAR_INIMIGO_10_VEZES,Efeito:NULO,Traco:ELUSIVO,Reino:Targon
+tipo:SEGUIDORES,chave:62,nome:Tianna,Mana:8,Poder:7,Vida:7,Efeito:UNIDADE_E_ATACA_NUXUS,Reino:Demacia
+tipo:SEGUIDORES,chave:63,nome:Vanguarda,Mana:4,Poder:3,Vida:3,Efeito:MAIS_1_1_ALIADOS,Reino:Demacia
+tipo:SEGUIDORES,chave:64,nome:Duelista,Mana:3,Poder:3,Vida:2,Efeito:DESTRUIR_CS_PORO,Reino:Demacia
+tipo:SEGUIDORES,chave:65,nome:Defensor,Mana:2,Poder:2,Vida:2,Efeito:FURIA,Reino:Demacia
+tipo:SEGUIDORES,chave:66,nome:Poro,Mana:1,Poder:2,Vida:1,Efeito:NULO,Reino:Demacia
+tipo:SEGUIDORES,chave:67,nome:Poro Defensor,Mana:1,Poder:1,Vida:2,Efeito:D_GANHA_CARTA,Reino:Demacia
+tipo:FEITICOS,chave:68,nome:Fugitivo,Mana:1,Efeito:INVOQUE_1S_1MANA,Traco:SUBITO,Reino:Bilgewater
+tipo:FEITICOS,chave:69,nome:Tiro de Aviso,Mana:0,Efeito:CAUSE_1_DANO_NEXUS,Traco:SUBITO,Reino:Bilgewater
+tipo:FEITICOS,chave:70,nome:Elixir da Ira,Mana:1,Efeito:CONCEDA_3_ALIADO_FORTE,Traco:SUBITO,Reino:Noxus
+tipo:FEITICOS,chave:71,nome:Bando Voraz,Mana:1,Efeito:CAUSE_4_DANO_INIMIGO_DANO,Traco:SUBITO,Reino:Noxus
+tipo:FEITICOS,chave:72,nome:Laco Fraterno,Mana:2,Efeito:DE_2_0_2_ALIADOS,Traco:SUBITO,Reino:Noxus
+tipo:FEITICOS,chave:73,nome:Cota de Malha,Mana:1,Efeito:DE_ROBUSTO_1ALIADOS,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:74,nome:Destreza em Campo,Mana:1,Efeito:DE_1_1_ALIADO,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:75,nome:Determinacao Guardia,Mana:1,Efeito:DE_ROBUSTO_TOTOS_ALIADOS,Traco:SUBITO,Reino:Demacia
+tipo:FEITICOS,chave:76,nome:Golpe Radiante,Mana:1,Efeito:DE_1_1_ALIADO,Traco:SUBITO,Reino:Demacia

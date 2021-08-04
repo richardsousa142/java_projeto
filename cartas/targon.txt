@@ -1,0 +1,8 @@
+tipo:CAMPEAO,chave:54,nome:Aphelios,Mana:3,Poder:3,Vida:2,Nivel:ARMA_LUA_4_VEZES,Efeito:ARMA_DA_LUA,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:55,nome:Aurelion Sol,Mana:10,Poder:10,Vida:10,Nivel:PODER_25_TOTAL,Efeito:NULO,Traco:FURIA,Reino:Targon
+tipo:CAMPEAO,chave:56,nome:Diana,Mana:2,Poder:2,Vida:2,Nivel:ANOITECER_4_VEZES,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Targon
+tipo:CAMPEAO,chave:57,nome:Leona,Mana:4,Poder:3,Vida:5,Nivel:AMANHECER_4_VEZES,Efeito:AMANHECER,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:58,nome:Malphite,Mana:7,Poder:6,Vida:10,Nivel:CARTA_10_MANA,Efeito:NULO,Traco:ROBUSTO,Reino:Targon
+tipo:CAMPEAO,chave:59,nome:Soraka,Mana:3,Poder:1,Vida:6,Nivel:CURAR_ALIADOS_4_VEZES,Efeito:AUXILIAR,Traco:NULO,Reino:Targon
+tipo:CAMPEAO,chave:60,nome:Taric,Mana:4,Poder:3,Vida:4,Nivel:VI_AUXILIAR_ALIADOS_7VEZES,Efeito:NULO,Traco:ROBUSTO,Reino:Targon
+tipo:CAMPEAO,chave:61,nome:Zoe,Mana:1,Poder:1,Vida:1,Nivel:ATACAR_INIMIGO_10_VEZES,Efeito:NULO,Traco:ELUSIVO,Reino:Targon

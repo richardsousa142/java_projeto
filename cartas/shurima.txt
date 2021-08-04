@@ -1,0 +1,5 @@
+tipo:CAMPEAO,chave:49,nome:Nasus,Mana:6,Poder:2,Vida:2,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:ASSUSTADOR,Reino:Shurima
+tipo:CAMPEAO,chave:50,nome:Renekton,Mana:4,Poder:4,Vida:4,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:SOBREPUJAR,Reino:Shurima
+tipo:CAMPEAO,chave:51,nome:Sivir,Mana:4,Poder:5,Vida:3,Nivel:CAUSAR_10_DANO,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Shurima
+tipo:CAMPEAO,chave:52,nome:Taliyah,Mana:5,Poder:3,Vida:5,Nivel:CRIAR_5_LENDMARKS,Efeito:SUMONAR_LENDMARKS,Traco:NULO,Reino:Shurima
+tipo:CAMPEAO,chave:53,nome:Zilean,Mana:2,Poder:1,Vida:4,Nivel:DESTRUIR_2_BOMBAS,Efeito:CRIAR_4_BOMBAS,Traco:NULO,Reino:Shurima

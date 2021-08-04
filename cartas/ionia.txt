@@ -1,0 +1,7 @@
+tipo:CAMPEAO,chave:28,nome:Irelia,Mana:3,Poder:3,Vida:2,Nivel:DOZE_ALIADOS_ATACARAM,Efeito:FLAWLESS_DUET,Traco:ATAQUE_RAPIDO,Reino:Ionia
+tipo:CAMPEAO,chave:29,nome:Karma,Mana:6,Poder:4,Vida:3,Nivel:ILUMINADO,Efeito:CRIAR_FEITICO,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:30,nome:Lee Sin,Mana:5,Poder:3,Vida:5,Nivel:CONJURAR_6_FEITICOS,Efeito:NULO,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:31,nome:Lulu,Mana:3,Poder:4,Vida:4,Nivel:AUZILIAR_3_VEZES,Efeito:AUXILIAR,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:32,nome:Shen,Mana:4,Poder:3,Vida:5,Nivel:VI_ALIADOS_BARREIRA_4,Efeito:AUXILIAR,Traco:NULO,Reino:Ionia
+tipo:CAMPEAO,chave:33,nome:Yasuo,Mana:4,Poder:4,Vida:4,Nivel:ATORDOAR,Efeito:ATORDOAR,Traco:ATAQUE_RAPIDO,Reino:Ionia
+tipo:CAMPEAO,chave:34,nome:Zed,Mana:3,Poder:3,Vida:2,Nivel:ATACAR_NEXUS,Efeito:SOMBRA_VIVA,Traco:ATAQUE_RAPIDO,Reino:Ionia

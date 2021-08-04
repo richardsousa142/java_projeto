@@ -1,0 +1,10 @@
+tipo:CAMPEAO,chave:35,nome:Darius,Mana:6,Poder:6,Vida:5,Nivel:NEXUS_INIMIGO_10,Efeito:NULO,Traco:SOBREPUJAR,Reino:Noxus
+tipo:CAMPEAO,chave:36,nome:Draven,Mana:3,Poder:3,Vida:3,Nivel:GOLPEAR_1_REV_MACHADO,Efeito:REV_MACHADO,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:37,nome:Katarina,Mana:3,Poder:3,Vida:2,Nivel:GOLPEAR_2_VEZES,Efeito:FIO_LAMINA,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:38,nome:Leblanc,Mana:3,Poder:5,Vida:2,Nivel:CAUSAR_15_DANO,Efeito:NULO,Traco:ATAQUE_RAPIDO,Reino:Noxus
+tipo:CAMPEAO,chave:39,nome:Riven,Mana:3,Poder:3,Vida:4,Nivel:LAMINA_DO_EXILIO,Efeito:REFORJAR,Traco:NULO,Reino:Noxus
+tipo:CAMPEAO,chave:40,nome:Swain,Mana:5,Poder:3,Vida:6,Nivel:DOZE_DANO_FORA_COMBATE,Efeito:DANO_3_NEXUS,Traco:ASSUSTADOR,Reino:Noxus
+tipo:CAMPEAO,chave:41,nome:Vladimir,Mana:5,Poder:5,Vida:5,Nivel:CINCO_TIME_SOBREVIVERAM,Efeito:MAIS_1_DANO_ALIADOS,Traco:NULO,Reino:Noxus
+tipo:FEITICOS,chave:70,nome:Elixir da Ira,Mana:1,Efeito:CONCEDA_3_ALIADO_FORTE,Traco:SUBITO,Reino:Noxus
+tipo:FEITICOS,chave:71,nome:Bando Voraz,Mana:1,Efeito:CAUSE_4_DANO_INIMIGO_DANO,Traco:SUBITO,Reino:Noxus
+tipo:FEITICOS,chave:72,nome:Laco Fraterno,Mana:2,Efeito:DE_2_0_2_ALIADOS,Traco:SUBITO,Reino:Noxus

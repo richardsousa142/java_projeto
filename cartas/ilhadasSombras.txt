@@ -1,0 +1,6 @@
+tipo:CAMPEAO,chave:22,nome:Hecarim,Mana:6,Poder:5,Vida:5,Nivel:ATACAR_COM_6,Efeito:SPECTRAL_RIDERS,Traco:SOBREPUJAR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:23,nome:Kalista,Mana:3,Poder:4,Vida:3,Nivel:TRES_ALIADOS_MORREREM,Efeito:NULO,Traco:ASSUSTADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:24,nome:Kindred,Mana:5,Poder:4,Vida:4,Nivel:VER_INIMIGOS_MARCADOS_MORREREM,Efeito:MARCAR,Traco:ATAQUE_RAPIDO,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:25,nome:Maokai,Mana:4,Poder:1,Vida:4,Nivel:UNIDADES_MORRERAM,Efeito:EVOCA_1_MUDA,Traco:NULO,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:26,nome:Nocturne,Mana:4,Poder:5,Vida:3,Nivel:ANOITECER,Efeito:ANOITECER,Traco:ASSUSTADOR,Reino:IlhadasSombras
+tipo:CAMPEAO,chave:27,nome:Thresh,Mana:5,Poder:3,Vida:6,Nivel:SEIS_UNIDADES_MORREREM,Efeito:NULO,Traco:DESAFIADOR,Reino:IlhadasSombras
